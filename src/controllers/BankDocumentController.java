@@ -1,8 +1,6 @@
 package controllers;
-
 import java.util.List;
 import javax.swing.JTable;
-
 import models.BankDocument;
 import services.BankDocumentService;
 
